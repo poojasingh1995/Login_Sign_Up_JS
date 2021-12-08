@@ -1,0 +1,26 @@
+[
+    {
+        "username": "pooja",
+        "password": "pooja@1234",
+        "description": "student",
+        "dob": "553738",
+        "hobbies": "fhgshj",
+        "gender": "female"
+    },
+    {
+        "username": "kajal",
+        "password": "kajal#786",
+        "description": "fdghjdk",
+        "dob": "hsgdjshk",
+        "hobbies": "gdsjh",
+        "gender": "hgdsdk"
+    },
+    {
+        "username": "pooja",
+        "password": "pooja@1234",
+        "description": "student",
+        "dob": "553738",
+        "hobbies": "fhgshj",
+        "gender": "female"
+    }
+]
